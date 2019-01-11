@@ -1,0 +1,9 @@
+<archetype>
+  <id>sample-archetype</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <resources>
+      <resource>src/test/java/BatFile.bat</resource>
+  </resources>
+</archetype>
