@@ -1,4 +1,4 @@
-package $com.sample.archetype;
+package ${package};
 
 /**
  * Hello world!
